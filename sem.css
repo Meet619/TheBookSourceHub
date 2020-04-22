@@ -1,0 +1,36 @@
+.font {
+    font-family: 'IM Fell Great Primer SC', serif;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-style:italic;
+}
+.btn {
+    display: block;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding: 10px 10px;
+    color: white;
+    background-color:black;
+    width: 200px;
+    height: 50px;
+    transition:0.5;
+    border:none;
+}
+.btn:hover{
+    background-color:crimson;
+    color:white;
+}
+
+.b0 {
+    margin-left: 700px;
+}
+
+.b1{
+    margin-left: 700px;
+    margin-top: 10px;
+}
+
+a{
+    text-decoration:none;
+}

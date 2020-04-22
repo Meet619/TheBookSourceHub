@@ -1,0 +1,75 @@
+
+    
+h1 {
+    font-family: 'IM Fell Great Primer SC', serif;
+    text-align: center;
+    font-size: 50px;
+    font-display: block;
+    text-decoration:underline;
+    margin-top: 100px;
+}
+h3 {
+    font-family: 'IM Fell Great Primer SC', serif;
+    text-align:center;
+    font-style:italic;
+    font-size:30px;
+}
+.contact-box{
+  margin: auto;
+    border:2px solid black;
+    padding: 10px;
+   border-radius:23px 23px;
+   background-color:#b3ffff;
+}
+.contact-box:hover{
+    border-color:crimson;
+}
+
+.t {
+    border: 3px solid black;
+    width: 250px;
+    height: 60px;
+    margin: auto;
+    font-size: 20px;
+    font-family: serif;
+    border-radius: 14px 14px;
+    margin-top: 5px;
+}
+
+    .t:hover {
+   
+        border: 3px solid black;
+        border-radius: 23px 23px;
+    }
+
+    textarea:hover {
+  
+        border: 3px solid black;
+        border-radius: 23px 23px;
+    }
+
+
+
+label {
+    color: crimson;
+    font: bold 30px 'IM Fell Great Primer SC', serif;
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 100px;
+}
+.b1 {
+    padding: 10px 10px;
+    background-color:crimson;
+    font: bold 20px 'IM Fell Great Primer SC', serif;
+    width: 150px;
+    height: 50px;
+    border-radius: 13px 14px;
+    margin-left: 250px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+    .b1:hover {
+        background-color: dodgerblue;
+        color: white;
+        font: bold 20px 'IM Fell Great Primer SC', serif;
+    }    

@@ -1,0 +1,53 @@
+.dwn{
+    margin-left: 35%;
+
+}
+.btn {
+background-color: DodgerBlue;
+border: none;
+color: white;
+padding: 12px 30px;
+cursor: pointer;
+font-size: 20px;
+margin-left: auto;
+}
+
+
+/* Darker background on mouse-over */
+.btn:hover {
+    background-color: RoyalBlue;
+}
+
+
+    .main-box{
+        border: 2px solid black;
+        padding:0px;
+        margin: auto;
+        width: 700px;
+        height: auto;    
+        transition: all 0.5s;
+        -webkit-box-shadow: -1px 1px 5px 4px rgba(0,0,0,0.75);
+        -moz-box-shadow: -1px 1px 5px 4px rgba(0,0,0,0.75);
+        box-shadow: -1px 1px 5px 4px rgba(0,0,0,0.75);
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+    h1,h2{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        text-align: center;
+    }
+   
+     img{
+        float: left;
+        margin:4px;
+        padding: 4px;
+        height: 220px;
+        width: 200px;
+    }
+.main-box span {
+cursor: pointer;
+display: inline-block;
+position: relative;
+transition: 0.5s;
+}
